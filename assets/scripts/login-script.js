@@ -14,19 +14,19 @@ const inputEmailElement = document.querySelector('#inputEmail');
 
 /** 
 * Membuat variabel inputPasswordElement untuk tampilan input password.
-* @constant {HTMLElement}.
+* @constant {HTMLElement}
 */
 const inputPasswordElement = document.querySelector('#inputPassword');
 
 /** 
 * Membuat variabel expectedEmail untuk menyimpan informasi email sementara.
-* @constant {string}.
+* @constant {string}
 */
 const expectedEmail = 'admin@dicoding.com';
 
 /**
 * Menbuat variable expectedPassword untuk menyimpan informasi password sementara.
-* @constant {string}.
+* @constant {string}
 */
 const expectedPassword = 'superpassword';
 
